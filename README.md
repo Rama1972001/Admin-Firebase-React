@@ -1,9 +1,7 @@
 # Admin-Firebase-React
 
 ## use:    
-test@example.com
- password
-Get started
+email : test@example.com ,  password: password
 
  ## add the  Firebase connection file with the following format from firebase:
 
